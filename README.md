@@ -26,6 +26,7 @@
 4. `Создайте Item который будет собирать информацию об загрузке RAM в процентах`
 
 Решение 1
+<img src = "img\img1_0.jpg" width = 100%>
 <img src = "img\img1.jpg" width = 100%>
 <img src = "img\img1_1.jpg" width = 100%>
 <img src = "img\img1_2.jpg" width = 100%>
@@ -70,5 +71,6 @@
 3. `Разместите на нём несколько графиков на ваше усмотрение.`
 
 Решение 4
+<img src = "img\img4_0.jpg" width = 100%>
 <img src = "img\img4.jpg" width = 100%>
 <img src = "img\img4_1.jpg" width = 100%>
