@@ -27,6 +27,8 @@
 
 Решение 1
 <img src = "img\img1.jpg" width = 100%>
+<img src = "img\img1_1.jpg" width = 100%>
+<img src = "img\img1_2.jpg" width = 100%>
 
 
 ---
@@ -57,6 +59,7 @@
 
 Решение 2-3
 <img src = "img\img2-3.jpg" width = 100%>
+<img src = "img\img2-3_1.jpg" width = 100%>
 
 ### Задание 4
 
@@ -68,3 +71,4 @@
 
 Решение 4
 <img src = "img\img4.jpg" width = 100%>
+<img src = "img\img4_1.jpg" width = 100%>
