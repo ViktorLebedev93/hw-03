@@ -73,4 +73,4 @@
 Решение 4
 <img src = "img\img4_0.jpg" width = 100%>
 <img src = "img\img4.jpg" width = 100%>
-<img src = "img\img4_1.jpg" width = 100%>
+
